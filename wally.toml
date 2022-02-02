@@ -1,0 +1,8 @@
+[package]
+name = "eldonwilliams/profileservice"
+description = "Fork of MadWork ProfileService built to Wally compliant. Also with the removal of a lot of fluff file"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
